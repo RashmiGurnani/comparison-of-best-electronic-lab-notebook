@@ -33,7 +33,7 @@ We collected the list of ELN from google, linkedin and [wikipedia](https://en.wi
 | Sciency ELN Cloud                         | https://sciency-eln.com/                                                             | Frederick, MD, 21703   |              |            | 
 | genohm SLims                              | http://www.genohm.com/slims/                                                         | Switzerland            |              |            | 
 | Studylog                                  | http://www.studylog.com/products/studylog-web/                                       |                        |              |            | 
-
+| Chemia ELN                                  | http://www.chemia.in                                       |                        |              |            | 
 ## Comparison of Features
 
 What makes a ELN? There are no specific answers. An ELN need to keep the purpose of documenting research data, and keeping the fact of research as accurate as possible. We selected a list of features that are required in the process of experimentation. See the details of each features bellow.
